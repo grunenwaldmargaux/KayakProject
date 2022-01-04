@@ -1,0 +1,36 @@
+ID,city_names,Latitude,Longitude,Temp j0,Temp j+1,Temp j+2,Temp j+3,Temp j+4,Temp j+5,Temp j+6,Temp j+7,Alerte j0,Alerte j+1,Alerte j+2,Alerte j+3,Alerte j+4,Alerte j+5,Alerte j+6,Alerte j+7,Avg Temp
+0,Mont Saint Michel,48.6355232,-1.5102571,16.68,15.56,15.18,15.77,15.99,16.69,16.43,16.21,few clouds,scattered clouds,overcast clouds,clear sky,overcast clouds,scattered clouds,overcast clouds,scattered clouds,16.06375
+1,St Malo,48.649518,-2.0260409,15.78,15.64,15.53,14.84,14.58,15.35,15.65,15.74,few clouds,scattered clouds,overcast clouds,clear sky,overcast clouds,broken clouds,overcast clouds,scattered clouds,15.38875
+2,Bayeux,49.2764624,-0.7024738,14.96,15.68,14.89,15.79,15.19,16.4,15.93,16.06,broken clouds,broken clouds,light rain,clear sky,overcast clouds,scattered clouds,broken clouds,clear sky,15.6125
+3,Le Havre,49.4938975,0.1079732,14.5,14.69,14.5,14.41,14.44,14.49,14.85,15.18,light rain,broken clouds,overcast clouds,clear sky,overcast clouds,overcast clouds,broken clouds,clear sky,14.632499999999997
+4,Rouen,49.4404591,1.0939658,14.67,14.94,14.05,15.45,15.68,13.97,14.85,15.4,broken clouds,overcast clouds,light rain,scattered clouds,overcast clouds,overcast clouds,overcast clouds,clear sky,14.876249999999999
+5,Paris,48.8566969,2.3514616,15.58,14.35,13.64,15.4,15.89,16.08,14.78,15.47,broken clouds,broken clouds,overcast clouds,few clouds,overcast clouds,overcast clouds,scattered clouds,clear sky,15.14875
+6,Amiens,49.8941708,2.2956951,14.73,14.24,13.31,15.56,16.08,14.26,14.31,14.94,overcast clouds,overcast clouds,overcast clouds,few clouds,light rain,overcast clouds,scattered clouds,clear sky,14.67875
+7,Lille,50.6365654,3.0635282,15.18,12.4,12.97,16.28,15.09,13.11,14.29,15.69,overcast clouds,light rain,overcast clouds,scattered clouds,light rain,overcast clouds,scattered clouds,clear sky,14.376249999999999
+8,Strasbourg,48.584614,7.7507127,13.3,12.42,12.17,13.53,13.65,14.06,13.03,13.38,broken clouds,light rain,light rain,few clouds,broken clouds,clear sky,broken clouds,scattered clouds,13.1925
+9,Chateau du Haut Koenigsbourg,48.249489800000006,7.34429620253195,11.56,8.34,9.14,10.63,12.21,11.44,10.61,10.76,scattered clouds,light rain,light rain,few clouds,broken clouds,scattered clouds,broken clouds,few clouds,10.586250000000001
+10,Colmar,48.0777517,7.3579641,13.96,11.57,12.19,13.54,14.69,14.32,13.48,13.83,scattered clouds,overcast clouds,light rain,clear sky,scattered clouds,few clouds,broken clouds,few clouds,13.447500000000002
+11,Eguisheim,48.0447968,7.3079618,14.08,11.69,12.2,13.53,14.83,14.41,13.6,14.0,broken clouds,overcast clouds,light rain,clear sky,scattered clouds,few clouds,broken clouds,few clouds,13.542499999999999
+12,Besancon,47.2380222,6.0243622,13.75,12.42,10.73,13.55,14.4,15.06,14.12,14.96,scattered clouds,broken clouds,light rain,clear sky,few clouds,clear sky,broken clouds,clear sky,13.623750000000001
+13,Dijon,47.3215806,5.0414701,14.77,13.77,12.09,13.59,13.62,15.49,13.65,14.32,scattered clouds,broken clouds,overcast clouds,clear sky,scattered clouds,few clouds,broken clouds,clear sky,13.912500000000001
+14,Annecy,45.8992348,6.1288847,13.83,13.17,11.72,12.52,15.71,14.64,15.41,16.28,clear sky,scattered clouds,broken clouds,few clouds,clear sky,broken clouds,few clouds,clear sky,14.159999999999998
+15,Grenoble,45.1875602,5.7357819,15.19,14.29,12.11,15.07,18.18,17.46,18.21,19.5,few clouds,clear sky,broken clouds,few clouds,clear sky,scattered clouds,few clouds,clear sky,16.251250000000002
+16,Lyon,45.7578137,4.8320114,14.87,14.21,12.43,13.03,15.5,15.05,15.12,15.91,clear sky,scattered clouds,broken clouds,clear sky,few clouds,scattered clouds,scattered clouds,clear sky,14.514999999999999
+17,Bormes les Mimosas,43.1506968,6.3419285,20.14,19.14,18.04,17.08,18.74,18.42,18.93,18.97,clear sky,scattered clouds,light rain,broken clouds,few clouds,overcast clouds,clear sky,clear sky,18.6825
+18,Cassis,43.2140359,5.5396318,19.57,19.2,18.74,18.66,18.32,18.78,18.56,18.68,clear sky,scattered clouds,clear sky,few clouds,clear sky,broken clouds,few clouds,clear sky,18.81375
+19,Marseille,43.2961743,5.3699525,19.32,18.25,18.03,18.84,18.26,18.3,18.7,18.66,clear sky,scattered clouds,clear sky,light rain,few clouds,scattered clouds,few clouds,clear sky,18.544999999999998
+20,Aix en Provence,43.5298424,5.4474738,19.89,18.25,17.85,18.59,18.04,19.15,19.26,19.25,clear sky,scattered clouds,clear sky,light rain,scattered clouds,broken clouds,clear sky,clear sky,18.785
+21,Avignon,43.9492493,4.8059012,16.9,15.8,16.42,15.32,18.3,18.4,18.83,19.15,clear sky,clear sky,clear sky,scattered clouds,clear sky,few clouds,clear sky,clear sky,17.389999999999997
+22,Uzes,44.0121279,4.4196718,16.84,17.53,16.87,15.8,17.62,18.19,18.27,19.0,clear sky,clear sky,few clouds,clear sky,clear sky,few clouds,few clouds,clear sky,17.515
+23,Nimes,43.8374249,4.3600687,18.1,18.39,17.94,16.78,18.42,19.13,19.1,19.6,clear sky,clear sky,clear sky,clear sky,clear sky,few clouds,scattered clouds,clear sky,18.4325
+24,Aigues Mortes,43.5658225,4.1912837,19.33,18.73,18.47,17.24,17.49,18.87,18.9,18.38,clear sky,clear sky,clear sky,few clouds,scattered clouds,few clouds,scattered clouds,clear sky,18.42625
+25,Saintes Maries de la mer,43.4522771,4.4287172,18.63,18.04,17.78,16.81,17.15,18.37,18.02,17.74,clear sky,few clouds,clear sky,few clouds,few clouds,few clouds,few clouds,clear sky,17.8175
+26,Collioure,42.52505,3.0831554,22.88,21.53,19.11,17.49,18.61,20.7,19.34,18.83,clear sky,broken clouds,clear sky,clear sky,scattered clouds,clear sky,few clouds,broken clouds,19.81125
+27,Carcassonne,43.2130358,2.3491069,19.52,18.31,17.07,19.32,19.24,20.04,20.72,20.4,clear sky,scattered clouds,clear sky,clear sky,broken clouds,clear sky,few clouds,clear sky,19.3275
+28,Foix,42.9638998,1.6053807,19.26,18.59,15.84,19.31,19.85,18.84,20.06,21.84,clear sky,broken clouds,clear sky,clear sky,overcast clouds,clear sky,few clouds,clear sky,19.19875
+29,Toulouse,43.6044622,1.4442469,17.54,16.28,15.87,17.31,18.4,17.99,18.91,20.45,clear sky,few clouds,clear sky,clear sky,overcast clouds,clear sky,scattered clouds,clear sky,17.84375
+30,Montauban,44.0175835,1.3549991,16.79,15.62,16.69,17.46,17.77,17.74,18.62,20.02,clear sky,clear sky,scattered clouds,clear sky,overcast clouds,clear sky,scattered clouds,clear sky,17.58875
+31,Biarritz,43.471143749999996,-1.552726590666314,16.64,14.93,15.49,17.65,18.26,16.98,20.02,21.4,clear sky,broken clouds,clear sky,clear sky,broken clouds,overcast clouds,clear sky,scattered clouds,17.67125
+32,Bayonne,43.4933379,-1.475099,17.41,15.74,16.17,18.33,18.74,17.58,20.78,22.5,clear sky,broken clouds,few clouds,clear sky,overcast clouds,broken clouds,clear sky,scattered clouds,18.40625
+33,La Rochelle,46.1591126,-1.1520434,17.18,15.9,15.71,16.72,16.12,16.79,17.96,18.23,clear sky,scattered clouds,broken clouds,clear sky,overcast clouds,scattered clouds,broken clouds,few clouds,16.826249999999998
+34,Gorges Du Verdon,43.7497,6.32859,17.36,15.67,12.13,11.2,14.15,15.78,15.72,16.42,clear sky,broken clouds,light rain,light rain,few clouds,overcast clouds,few clouds,few clouds,14.80375
